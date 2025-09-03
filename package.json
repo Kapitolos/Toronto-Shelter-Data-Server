@@ -1,0 +1,27 @@
+{
+  "name": "toapiserver",
+  "version": "1.0.0",
+  "description": "City Of Toronto API Browser Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "citytoapiserver"
+  },
+  "keywords": [
+    "Toronto",
+    "API",
+    "Browser",
+    "backend"
+  ],
+  "author": "Thomas Gibson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
